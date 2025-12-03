@@ -1,3 +1,3 @@
-# Demo
+# Introduction to programming in Python 
 
-Some descriptionn
+Getting started on python can be pretty easy if you have programming backgroundin C or Java, hence making this process a lot faster and more efficient.
